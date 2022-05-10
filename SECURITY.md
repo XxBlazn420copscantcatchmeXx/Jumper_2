@@ -1,5 +1,7 @@
 # Security Policy
-
+1. Alle deltagere skal have deres 2 factor authentication slået til i deres Github konto, før de kan til tilgås projektets repository. 
+2. Alle gruppemedlemmer skal underrettes hver gang en ny version af programmet udgives. 
+3. Hvis der opstår sikkerhedsbrud skal alle medlemmer underrettes med det samme. 
 ## Supported Versions
 
 Programmet understøtter følgene Processing versioner.
